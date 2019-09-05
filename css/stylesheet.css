@@ -17,3 +17,19 @@ ul {
   }
   photographer{align-content:center;
 }
+div.images {
+  
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 535px;
+}
+
+div.images:hover {
+  border: 1px solid #777;
+}
+
+div.images img {
+  width: 100%;
+  height: auto;
+}
