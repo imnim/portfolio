@@ -87,7 +87,24 @@ input[type=submit]:hover {
   display: table;
   clear: both;
 }
+.nimtext{
+  float: left;  color:white;
+  font-size: 250%;
 
+
+}
+.linktext{
+  float: right;  color:white;
+  font-size: 250%;
+
+
+}
+.bodtext{
+text-align: center;
+ color:white;
+ font-size: 150%;
+
+}
 
 @media screen and (max-width: 600px) {
   .col-25, .col-75, input[type=submit] {
